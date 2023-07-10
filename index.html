@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="ar-eg" dir="rtl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="assets/css/style.css">
+    <title>Albaraa App</title>
+  </head>
+  <body>
+    <div class="hero-container">
+        <div class="mark-card" id="showMark" >
+            <span class="close-mark" id="closeMark">❌</span>
+            <p id="showMarkHolder"></p>
+        </div>
+      <div class="quiz-header">
+        <div class="header-top">
+          <p class="back-btn" id="backBtn">➡️</p>
+          <h2 class="quiz-title" id="quizTitle">الامتحان الاول</h2>
+        </div>
+        <div class="quiz-timer" id="timer">
+            ⌚ 00:00:00 
+        </div>
+      </div>
+
+      <div class="quiz-body" id="quizBody">
+        <p class="q-num" ><span id="qNum">1 :</span> اختر الاجابة الصحيحة مما يلي</p>
+
+        <div class="questions" id="qContainer">
+            <div class="overlay" id="over"></div>
+            <!-- <div class="q-title" >
+              
+            </div> -->
+            <!-- <div class="q-answers" id="qAnswers">
+
+                 <div class="q-answer" id="qAnswer" data-num="ا">
+                    <input type="radio" name="ans" id="ans1">
+                    <div class="q-answer-num">ا</div>
+                    <label for="ans1">صحيح</label>
+                    
+                </div> 
+               
+            </div> -->
+        </div>
+      </div>
+
+      <div class="quiz-footer" id="quizFooter">
+        <div class="prev-next">
+            <button id="prev" class="prev-btn">&lt; السابق</button>
+            <button id="next" class="next-btn">التالي &gt;</button>
+        </div>
+        <div class="bullets" id="bulletsCont">
+               
+        </div>
+
+        <button class="submit-btn" id="submitBtn">ارسال</button>
+        <button class="reload-btn" id="reloadBtn">اعاده الاختبار</button>
+      </div>
+    </div>
+
+
+
+    <script src="assets/js/app.js"></script>
+  </body>
+</html>

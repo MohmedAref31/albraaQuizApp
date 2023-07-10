@@ -1,0 +1,119 @@
+{
+  "title": "امتخان تجريبي 1",
+  "time": { "h": 2, "m": 30 },
+  "questions": [
+            {
+                "title":"هذا هو نص السؤال ",
+                "answers":[
+                    {"text":"صحيح","correct":true},
+                    {"text":"خطأ","correct":false},
+                    {"text":"خطأ","correct":false},
+                    {"text":"خطأ","correct":false}
+                ]
+
+                
+            },
+            {
+                "title":"هذا هو نص السؤال ",
+                "answers":[
+                    {"text":"صحيح","correct":true},
+                    {"text":"خطأ","correct":false},
+                    {"text":"خطأ","correct":false},
+                    {"text":"خطأ","correct":false}
+                ]
+
+                
+            },
+            {
+                "title":"هذا هو نص السؤال ",
+                "answers":[
+                    {"text":"صحيح","correct":true},
+                    {"text":"خطأ","correct":false},
+                    {"text":"خطأ","correct":false},
+                    {"text":"خطأ","correct":false}
+                ]
+
+                
+            },
+            {
+                "title":"هذا هو نص السؤال ",
+                "answers":[
+                    {"text":"صحيح","correct":true},
+                    {"text":"خطأ","correct":false},
+                    {"text":"خطأ","correct":false},
+                    {"text":"خطأ","correct":false}
+                ]
+
+                
+            },
+            {
+                "title":"هذا هو نص السؤال ",
+                "answers":[
+                    {"text":"صحيح","correct":true},
+                    {"text":"خطأ","correct":false},
+                    {"text":"خطأ","correct":false},
+                    {"text":"خطأ","correct":false}
+                ]
+
+                
+            },
+            {
+                "title":"هذا هو نص السؤال ",
+                "answers":[
+                    {"text":"صحيح","correct":true},
+                    {"text":"خطأ","correct":false},
+                    {"text":"خطأ","correct":false},
+                    {"text":"خطأ","correct":false}
+                ]
+
+                
+            },
+            {
+                "title":"هذا هو نص السؤال ",
+                "answers":[
+                    {"text":"صحيح","correct":true},
+                    {"text":"خطأ","correct":false},
+                    {"text":"خطأ","correct":false},
+                    {"text":"خطأ","correct":false}
+                ]
+
+                
+            },
+            {
+                "title":"هذا هو نص السؤال ",
+                "answers":[
+                    {"text":"صحيح","correct":true},
+                    {"text":"خطأ","correct":false},
+                    {"text":"خطأ","correct":false},
+                    {"text":"خطأ","correct":false}
+                ]
+
+                
+            },
+            {
+                "title":"هذا هو نص السؤال ",
+                "answers":[
+                    {"text":"صحيح","correct":true},
+                    {"text":"خطأ","correct":false},
+                    {"text":"خطأ","correct":false},
+                    {"text":"خطأ","correct":false}
+                ]
+
+                
+            },
+            {
+                "title":"هذا هو نص السؤال ",
+                "answers":[
+                    {"text":"صحيح","correct":true},
+                    {"text":"خطأ","correct":false},
+                    {"text":"خطأ","correct":false},
+                    {"text":"خطأ","correct":false}
+                ]
+
+                
+            }
+
+
+
+  ]
+}
